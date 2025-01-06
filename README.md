@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @YnsBahadir
+- 🔥 I'm twenty one years old and I am student at Eastern Mediterranean University
+- 👀 I’m interested in Digital world
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on GameDev
+- 📫 You can reach me via "ynsbahadir@gmail.com"
+- ⚡ Fun fact: I Playing D&D and some T_Rpg in my leisure time.
