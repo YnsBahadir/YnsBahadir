@@ -8,3 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YnsBahadir&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=00000000" alt="YnsBahadir" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YnsBahadir&layout=donut&theme=onedark&hide_border=true&bg_color=00000000" alt="YnsBahadir" />
 </div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YnsBahadir" alt="Visitors" />
+</div>
