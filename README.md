@@ -3,3 +3,7 @@
 - 👀 I’m interested in Digital world
 - 🌱 I’m currently learning Java
 - 📫 You can reach me via "ynsbahadir@gmail.com"
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="YnsBahadir" />
