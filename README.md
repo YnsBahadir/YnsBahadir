@@ -5,5 +5,5 @@
 - 📫 You can reach me via "ynsbahadir@gmail.com"
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=YnsBahadir&show_icons=true&count_private=true" alt="YnsBahadir" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YnsBahadir&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=00000000" alt="YnsBahadir" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YnsBahadir&layout=donut&theme=onedark&hide_border=true&bg_color=00000000" alt="YnsBahadir" />
