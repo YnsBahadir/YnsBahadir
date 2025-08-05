@@ -15,3 +15,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YnsBahadir" alt="Visitors" />
 </div>
+
+  Last Updated on 05/08/2025
