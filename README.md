@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YnsBahadir
 - 🔥 I'm twenty two years old and I am student at Eastern Mediterranean University
 - 👀 I’m interested in Digital world
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently working with AI
 - 📫 You can reach me via "ynsbahadir@gmail.com"
 
 
