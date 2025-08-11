@@ -35,14 +35,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=YnsBahadir&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YnsBahadir/YnsBahadir/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YnsBahadir/YnsBahadir/output/pacman-contribution-graph.svg">
-      <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/YnsBahadir/YnsBahadir/output/pacman-contribution-graph.svg" />
-  </picture>
-  <p align="left"><sub><a href="https://github.com/YnsBahadir/YnsBahadir" target="_blank">PACMAN - generado con abozanona/snk</a></sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YnsBahadir/YnsBahadir/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YnsBahadir/YnsBahadir/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YnsBahadir/YnsBahadir/output/pacman-contribution-graph.svg">
+</picture>
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 
-  Last Updated on 06/08/2025
+  Last Updated on 11/08/2025
