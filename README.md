@@ -3,6 +3,7 @@
 - 👀 I’m interested in Digital world 
 - 🌱 I’m currently working with AI
 - 📫 You can reach me via "ynsbahadir@gmail.com"
+- 💬 Ask me about anything [here](https://github.com/YnsBahadir/YnsBahadir/issues)
 
 
 <div align = center> <hr>
