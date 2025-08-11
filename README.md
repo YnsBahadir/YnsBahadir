@@ -29,19 +29,15 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-
-## Github Trophyies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YnsBahadir&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YnsBahadir/YnsBahadir/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YnsBahadir/YnsBahadir/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YnsBahadir/YnsBahadir/output/pacman-contribution-graph.svg">
 </picture>
+<hr>
+## Github Trophyies
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=YnsBahadir&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)<hr>
 
   Last Updated on 11/08/2025
