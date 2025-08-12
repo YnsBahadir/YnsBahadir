@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YnsBahadir <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 - 🔥 I'm twenty two years old and I am Student at <a href="https://www.emu.edu.tr/en">Eastern Mediterranean University</a>
-- 👀 I’m interested in Digital world 
-- 🌱 I’m currently working with AI
+- 👀 I’m interested in Digital world
+- 🌱 I’m currently working with AI & Healthcare Software
 - 📫 You can reach me via "ynsbahadir@gmail.com"
 - 💬 Ask me about anything [here](https://github.com/YnsBahadir/YnsBahadir/issues)
 
@@ -40,4 +40,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YnsBahadir&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)<hr>
 
-  Last Updated on 11/08/2025
+  Last Updated on 12/08/2025
