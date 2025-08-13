@@ -1,18 +1,23 @@
-- 👋 Hi, I’m @YnsBahadir <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+<!-- Yazı-->
+<div align="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3b4b58&height=70&section=header" alt="Header Wave" width="100%"/>
+    
+- 👋 Hi, I’m @YnsBahadir <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
 - 🔥 I'm twenty two years old and I am Student at <a href="https://www.emu.edu.tr/en">Eastern Mediterranean University</a>
 - 👀 I’m interested in Digital world
 - 🌱 I’m currently working with AI & Healthcare Software
 - 📫 You can reach me via "ynsbahadir@gmail.com"
 - 💬 Ask me about anything [here](https://github.com/YnsBahadir/YnsBahadir/issues)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3b4b58&height=70&section=footer" alt="Footer Wave" width="100%"/>
+</div>
 
 <div align = center> <hr>
-  <img src="https://github-readme-stats.vercel.app/api?username=YnsBahadir&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=00000000" alt="YnsBahadir" /> <!- ocean_dark –>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YnsBahadir&layout=donut&theme=onedark&hide_border=true&bg_color=00000000" alt="YnsBahadir" />
-  <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">  <!- Referance: https://github.com/orhun //Please cite Orhun. –>
+  <img src="https://github-readme-stats.vercel.app/api?username=YnsBahadir&show_icons=true&count_private=true&theme=github-dark-dimmed&hide_border=true&bg_color=00000000" alt="YnsBahadir" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YnsBahadir&layout=donut&theme=github-dark-dimmed&hide_border=true&bg_color=00000000" alt="YnsBahadir" />
+  <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
   <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YnsBahadir&theme=onedark&hide_border=true&background=00000000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=YnsBahadir&theme=github-dark-dimmed&hide_border=true&background=00000000)](https://git.io/streak-stats)
 </div> <hr>
 
 <div align="center">
