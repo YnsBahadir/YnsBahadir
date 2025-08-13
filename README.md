@@ -17,8 +17,7 @@
 
 <div align="center">
   
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YnsBahadir" alt="Visitors" />
-  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YnsBahadir" alt="VisitorsNew" />
   [![Linkedin: thaianebraga](https://img.shields.io/badge/-YnsBahadir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunus-bahad%C4%B1r-565090341/)](https://www.linkedin.com/in/yunus-bahad%C4%B1r-565090341/)
   [![GitHub Thaiane](https://img.shields.io/github/followers/YnsBahadir?label=follow&style=social)](https://github.com/YnsBahadir)
 
