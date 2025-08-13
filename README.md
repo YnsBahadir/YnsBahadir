@@ -89,7 +89,6 @@
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" alt="VsCode"><br><sub>VsCode</sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="32" alt="Eclipse"><br><sub>Eclipse</sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" alt="Pgadmin"><br><sub>PgAdmin</sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" alt="Docker"><br><sub>Docker</sub></td>
         </tr>
       </table>
