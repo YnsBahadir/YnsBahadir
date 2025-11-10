@@ -12,12 +12,13 @@
 </div>
 
 <div align = center> <hr>
-  <img src="https://github-readme-stats.vercel.app/api?username=YnsBahadir&show_icons=true&count_private=true&theme=github-dark-dimmed&hide_border=true&bg_color=00000000" alt="YnsBahadir" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YnsBahadir&layout=donut&theme=github-dark-dimmed&hide_border=true&bg_color=00000000" alt="YnsBahadir" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YnsBahadir&show_icons=true&count_private=true&theme=github-dark-dimmed&hide_border=true&bg_color=00000000" alt="YnsBahadir"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YnsBahadir&layout=donut&theme=github-dark-dimmed&hide_border=true&bg_color=00000000" alt="YnsBahadir"/>
+    
   <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
   <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YnsBahadir&theme=github-dark-dimmed&hide_border=true&background=00000000)](https://git.io/streak-stats)
+ <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=YnsBahadir&theme=github-dark-dimmed&hide_border=true&background=00000000)](https://git.io/streak-stats) -->
 </div> <hr>
 
 <div align="center">
