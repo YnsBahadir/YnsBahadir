@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @YnsBahadir <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
 - 🔥 I'm twenty two years old and I am Student at <a href="https://www.emu.edu.tr/en">Eastern Mediterranean University</a>
 - 👀 I’m interested in Digital world
-- 🌱 I’m currently working with AI & Healthcare Software
+- 🌱 I’m currently working with my lecture project. (.NET Core)
 - 📫 You can reach me via "ynsbahadir@gmail.com"
 - 💬 Ask me about anything [here](https://github.com/YnsBahadir/YnsBahadir/issues)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3b4b58&height=70&section=footer" alt="Footer Wave" width="100%"/>
